@@ -1,0 +1,7 @@
+{
+  "name": "Scam Shield AI",
+  "description": "AI-powered cybersecurity platform that detects and explains potential digital scams using the Google Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
